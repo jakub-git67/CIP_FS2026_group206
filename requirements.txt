@@ -11,3 +11,5 @@ matplotlib
 seaborn
 plotly
 plotnine
+webdriver-manager
+ipykernel
