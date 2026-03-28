@@ -13,3 +13,4 @@ plotly
 plotnine
 webdriver-manager
 ipykernel
+nbformat
